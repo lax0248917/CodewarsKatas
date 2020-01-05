@@ -15,3 +15,4 @@
 - [x] Will There Be Enough Space? 8kyu
 - [] Well of Ideas 8kyu
 - [x] What is Between 8kyu 01/03/2020
+- [x] Isograms 7kyu "required solution reveal"
