@@ -16,3 +16,4 @@
 - [] Well of Ideas 8kyu
 - [x] What is Between 8kyu 01/03/2020
 - [x] Isograms 7kyu "required solution reveal"
+- [x] Suitcase Packing 7kyu "required solution reveal"
