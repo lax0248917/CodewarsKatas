@@ -13,7 +13,10 @@
 - [x] Reversed Strings 8kyu
 - [x] String to Array 8kyu
 - [x] Will There Be Enough Space? 8kyu
-- [] Well of Ideas 8kyu
+- [ ] Well of Ideas 8kyu
 - [x] What is Between 8kyu 01/03/2020
 - [x] Isograms 7kyu "required solution reveal"
 - [x] Suitcase Packing 7kyu "required solution reveal"
+- [x] The Wide-Mouthed Frog 8kyu
+- [ ] Fizz Buzz 7kyu
+  
