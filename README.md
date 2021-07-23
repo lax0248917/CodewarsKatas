@@ -18,5 +18,6 @@
 - [x] Isograms 7kyu "required solution reveal"
 - [x] Suitcase Packing 7kyu "required solution reveal"
 - [x] The Wide-Mouthed Frog 8kyu
-- [ ] Fizz Buzz 7kyu
+- [x] Fizz Buzz 7kyu
+- [ ] Last Survivor 7kyu
   
