@@ -1,8 +1,8 @@
-## CodeWars Katas
+# CodeWars Katas
 
-### This is my repostiory for all my solutions to CodeWars Katas
+## This is my repostiory for all my solutions to CodeWars Katas
 
-### These are a great way to enhance my coding skills. I started as a 8kyu member and just leveled up to a 7kyu. I will track my progress and try to do at least 2-4 a month.
+## These are a great way to enhance my coding skills. I started as a 8kyu member and just leveled up to a 7kyu. I will track my progress and try to do at least 2-4 a month
 
 - [x] Make Uppercase 8kyu
 - [x] Calculate BMI 8kyu
